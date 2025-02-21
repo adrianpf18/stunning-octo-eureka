@@ -4,6 +4,8 @@ public class App {
     System.out.println("Contenido 2a");
     System.out.println("Contenido 3");
     System.out.println("Contenido 2b");
+    System.out.println("Adrián Palomo");
+    System.out.println("Vivo en Santa Marina del Rey");
   }
   
 }
