@@ -6,6 +6,9 @@ public class App {
     System.out.println("Contenido 2b");
     System.out.println("Adrián Palomo");
     System.out.println("Vivo en Santa Marina del Rey");
+    System.out.println("Vivo en España");
+    System.out.println("Naci en León");
+
   }
   
 }
